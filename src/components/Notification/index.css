@@ -1,0 +1,21 @@
+.notificationContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  background-color: #e5e5e5;
+  box-shadow: #475569;
+  border: 2ps solid #475569;
+  margin-bottom: 20px;
+  padding-top: 8px;
+  padding-left: 22px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+}
+.cross {
+  color: #475569;
+  height: 70px;
+  min-width: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
